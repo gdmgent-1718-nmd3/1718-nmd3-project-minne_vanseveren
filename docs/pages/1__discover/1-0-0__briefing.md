@@ -10,11 +10,15 @@ title: Briefing
 Opdracht
 --------
 
+Een museum wil de bezoeker een nieuwe gebruikersbeleving geven. Hierbij worden we gevraagd om een app te ontwerpen die zowel op een smartwatch als op een smartphone kan worden gebruikt. 
+
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Leïla Minne
+ - Ira Van Severen
 
 Gekozen Museum
 --------------
+
+Design Museum Gent
