@@ -13,8 +13,9 @@ Opdracht
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - «LEILA» «MINNE»
+ - «IRA» «VAN SEVEREN»
 
-Gekozen Museum
+Gekozen Museum: Design museum Gent
 --------------
+test briefing
