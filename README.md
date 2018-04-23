@@ -3,8 +3,8 @@ New Media Design III 2017-2018
 
 Studenten:
 
- - «Leïla» «Minne»
- - «Ira» «Van Severen»
+ - Leïla Minne
+ - Ira Van Severen
 
 > Artevelde University College Ghent
 
