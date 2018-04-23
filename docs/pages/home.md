@@ -10,5 +10,5 @@ title: Opdracht NMD-III
 Wie zijn we?
 ------------
 
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
+ - «LEILA» «MINNE», 2CMO-PD
+ - «IRA» «VAN SEVEREN», 2CMO-PD
