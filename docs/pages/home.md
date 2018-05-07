@@ -7,8 +7,18 @@ permalink: home
 title: Opdracht NMD-III
 ---
 
-Wie zijn we?
-------------
+<div class="container">
+    <h1>Opdracht NMD-III</h1>
+    <h2 id="wie-zijn-we">Wie zijn we?</h2>
 
- - «LEILA» «MINNE», 2CMO-PD
- - «IRA» «VAN SEVEREN», 2CMO-PD
+  <div>
+    <img src="leïla.png" alt="foto Leïla" width="25%">
+    Leïla Minne, 2CMO-PD
+  </div>
+  <div>
+    <img src="ira.png" alt="foto Ira" width="25%">
+    Ira Van Severen, 2CMO-PD
+  </div>
+
+</div>
+</html>
