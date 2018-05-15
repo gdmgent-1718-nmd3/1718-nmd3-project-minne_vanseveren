@@ -8,8 +8,6 @@ title: Planning
 ---
 
 <div class="container">
-   
-<h1>Planning</h1>
 
 <h2>Wat is de noodzaak van de app?</h2>
 <ul>

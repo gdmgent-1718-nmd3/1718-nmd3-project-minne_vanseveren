@@ -8,8 +8,7 @@ title: Opdracht NMD-III
 ---
 
 <div class="container">
-    <h1>Opdracht NMD-III</h1>
-    <h2 id="wie-zijn-we">Wie zijn we?</h2>
+    <h1 id="wie-zijn-we">Wie zijn we?</h1>
 
   <div>
     <img src="leïla.png" alt="foto Leïla" width="25%">
@@ -19,5 +18,4 @@ title: Opdracht NMD-III
     <img src="ira.png" alt="foto Ira" width="25%">
     Ira Van Severen, 2CMO-PD
   </div>
-
 </div>
