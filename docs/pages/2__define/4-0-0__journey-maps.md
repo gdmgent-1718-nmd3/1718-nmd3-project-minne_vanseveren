@@ -8,7 +8,6 @@ title: Journey Maps
 ---
 
 <div class="container">
-    <h1>Journey Maps</h1>
 
     <h2>Beleving 1:</h2>
 

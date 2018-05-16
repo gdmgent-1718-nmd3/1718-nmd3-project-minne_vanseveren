@@ -8,11 +8,11 @@ title: Technische Analyse
 ---
 
 <div class="container">
-    <h1>Technische Analyse</h1>
 
-Kies een bestaande smartwatch: <a href="http://www.samsung.com/be/wearables/gear-s3/">Samsung Gear S3</a>
+<h2>Kies een bestaande smartwatch: 
+<a href="http://www.samsung.com/be/wearables/gear-s3/">Samsung Gear S3</a></h2>
 
-<h2>Technische mogelijkheden</h2>
+<h3>Technische mogelijkheden</h3>
 
 <ul>
     <li>Touchscreen</li>
@@ -43,7 +43,7 @@ Kies een bestaande smartwatch: <a href="http://www.samsung.com/be/wearables/gear
     <li>Roterende ring, toets terug (rechtsboven) en toets home (rechtsonder)</li>
 </ul>
 
-<h2>De ontwerprichtlijnen</h2>
+<h3>De ontwerprichtlijnen</h3>
 
 <ul>
     <li>Beeldschermdiagonaal van 3,29 cm</li>
@@ -55,16 +55,17 @@ Kies een bestaande smartwatch: <a href="http://www.samsung.com/be/wearables/gear
 <img src="ta3.jpg" alt="grootte display smartwatch" width="25%">
 <img src="ta4.jpg" alt="foto onderdelen smartwatch" width="25%">
 
-<h2>Het gebruik</h2>
+<h3>Het gebruik</h3>
 
 <ul>
     <li>Smartwatch is geconnecteerd met je smartphone</li>
     <li>Je smartphone kan je lokaliseren en dit doorgeven aan je smartwatch</li>
 </ul>
 
-Kies een bestaande smartphone: <a href="https://www.vandenborre.be/smartphone/lg-g6-titanium-sim">LG G6</a>
+<h2>Kies een bestaande smartphone: 
+<a href="https://www.vandenborre.be/smartphone/lg-g6-titanium-sim">LG G6</a></h2>
 
-<h2>Technische mogelijkheden</h2>
+<h3>Technische mogelijkheden</h3>
 
 <ul>
     <li>RAM-geheugen 4GB</li>
@@ -83,7 +84,7 @@ Kies een bestaande smartphone: <a href="https://www.vandenborre.be/smartphone/lg
     <li></li>  
 </ul>
  
-<h2>De ontwerprichtlijnen</h2>
+<h3>De ontwerprichtlijnen</h3>
 <ul>
     <li>2880 x 1440px</li>
     <li>Beeldschermdiagonaal 5.7 inch</li>
@@ -91,7 +92,7 @@ Kies een bestaande smartphone: <a href="https://www.vandenborre.be/smartphone/lg
 
 <img src="ta5.jpg" alt="grootte schermen" width="25%">
 
-<h2>Het gebruik</h2>
+<h3>Het gebruik</h3>
 <ul>
     <li>Je kan je smartwatch connecteren met je smartphone en omgekeerd</li>
     <li>Je smartphone kan je lokaliseren en dit doorgeven aan je smartwatch</li>

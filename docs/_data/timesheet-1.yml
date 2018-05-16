@@ -3,26 +3,135 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 1.5
+  task: Begin van de analyse
 -
   time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  task: Technische analyse
+-
+  time: 0.5
+  task: Interviews afnemen
+-
+  time: 1.5
+  task: 1ste journey map uitgeschreven
+-
+  time: 1
+  task: Persona's maken
+-
+  time: 1.25
+  task: Scenario's schrijven
+-
+  time: 0.75
+  task: Concept bepalen
+-
+  time: 0.75
+  task: Ideaboard
+-
+  time: 0.5
+  task: Powerpoint en concept
+-
+  time: 2.75
+  task: Wireflow en wireframes maken + zoeken naar technische info
+-
+  time: 5
+  task: Voorbereiding maken van paper prototype
+-
+  time: 2
+  task: Maken van paper prototype
+-
+  time: 0.75
+  task: Maken van foto's en filmen van filmpje
+-
+  time: 0.5
+  task: Ideaboard
+-
+  time: 0.25
+  task: Ontwerpen van het logo
+-
+  time: 0.5
+  task: Info gezocht rond Beacon en het verschil met iBeacons
+-
+  time: 0.75
+  task: De technische analyse van de smartwatch aangepast
+-
+  time: 1
+  task: Wireflow uittekenen
+-
+  time: 1.5
+  task: Uitleg schrijven bij wireframe/wireflow
+-
+  time: 1
+  task: Ideaboard smartwatch
+-
+  time: 0.5
+  task: Feedforward
 -
   time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  task: Visual design smartwatch
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 2
+  task: Style tile
+-
+  time: 2.75
+  task: Style tile
+-
+  time: 0.25
+  task: Feedforward over style tile
+-
+  time: 1.25
+  task: Style tile
+-
+  time: 1
+  task: Wireflow samen bespreken van smartphone
+-
+  time: 1.75
+  task: Style tiles maken
+-
+  time: 0.25
+  task: Feedforward style tile
+-
+  time: 0.75
+  task: Ontwerp verder uitwerken
+-
+  time: 0.75
+  task: Wireflow aanpassen en in de goede volgorde plaatsen
+-
+  time: 1.75
+  task: Style tiles volledig afwerken
+-
+  time: 2
+  task: Visual designs maken voor smartwatch + smartphone
+-
+  time: 2.25
+  task: Visual designs voor smartphone aanpassen samen met Ira
+-
+  time: 2
+  task: Visual designs voor smartphone vormgeven
+-
+  time: 1.5
+  task: Kaarten maken voor app (smartphone) + ze toevoegen
+-
+  time: 0.5
+  task: Kaarten voor style tiles aanpassen
+-
+  time: 1
+  task: Wireflow in orde brengen
+-
+  time: 1.5
+  task: VD's finaliseren voor smartphone als smartwatch
+-
+  time: 0.75
+  task: Prototype maken van alle XD bestanden
+-
+  time: 1
+  task: Gebruikerstesten afleggen en uitschrijven
+-
+  time: 1.5
+  task: Wireflow aanpassen aan onze gebruikerstesten
+-
+  time: 0.75
+  task: Feedforward
+-
+  time: 0.25
+  task: Feedforward beginnen toepassen
+

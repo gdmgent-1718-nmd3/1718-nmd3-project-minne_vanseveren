@@ -3,26 +3,110 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 1.5
+  task: Begin van de analyse
 -
   time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  task: Technische analyse
+-
+  time: 0.5
+  task: Interviews afnemen
+-
+  time: 1
+  task: Interviews uitschrijven
+-
+  time: 1.5
+  task: 1ste journey map uitgeschreven
+-
+  time: 1
+  task: Persona's maken
+-
+  time: 0.75
+  task: Ideaboard
+-
+  time: 0.75
+  task: 2ste journey map uitgeschreven
+-
+  time: 2.75
+  task: Wireflow en wireframes maken + zoeken naar technische info
+-
+  time: 2
+  task: Maken van paper prototype
+-
+  time: 0.75
+  task: Maken van foto’s en filmen van filmpje
+-
+  time: 2
+  task: Filmpje monteren
+-
+  time: 0.5
+  task: Ideaboard
+-
+  time: 1
+  task: Info gezocht rond NFC
+-
+  time: 1
+  task: Ideaboard smartwatch
+-
+  time: 2.5
+  task: Filmpje smartwatch
+-
+  time: 0.5
+  task: Feedforward
+-
+  time: 1.5
+  task: Schrijven aan het verslag over de smartwatch app met onze proefpersonen
+-
+  time: 3.5
+  task: Style tile
+-
+  time: 0.25
+  task: Feedforward over style tile
+-
+  time: 1.25
+  task: Style tiles
+-
+  time: 2
+  task: Wireflow smartphone
+-
+  time: 1
+  task: Wireflow samen bespreken van smartphone
 -
   time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  task: Style tiles maken
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 0.25
+  task: Feedforward style tile
+-
+  time: 0.75
+  task: Wireflow aanpassen en in de goede volgorde plaatsen
+-
+  time: 1.75
+  task: Style tiles volledig afwerken
+-
+  time: 2
+  task: Visual Designs maken voor smartwatch + smartphone
+-
+  time: 2.25
+  task: Visual Designs voor smartphone aanpassen samen met Leïla
+-
+  time: 2
+  task: Gebruikerstest afleggen en uitschrijven
+-
+  time: 4
+  task: Dossier aanvullen
+-
+  time: 2.5
+  task: Dossier aanvullen
+-
+  time: 1.5
+  task: Wireflow aanpassen aan onze gebruikerstesten
+-
+  time: 0.75
+  task: Feedforward
+-
+  time: 0.25
+  task: Dossier in de juiste html pagina plaatsen
+-
+  time: 2.5
+  task: Timesheets verplaatsen naar de html pagina
