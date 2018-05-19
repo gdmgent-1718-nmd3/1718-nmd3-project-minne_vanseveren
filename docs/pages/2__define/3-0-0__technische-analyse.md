@@ -50,6 +50,7 @@ title: Technische Analyse
     <li>Resolutie van 360px breed en 360px hoog</li>
 </ul>
 
+![technische-analyse](http://127.0.0.1:4000/1718-nmd3-project-minne_vanseveren/docs/ta1.jpg){:style="width: 25%"} 
 <img src="ta1.jpg" alt="foto weergave op een smartwatch" width="25%">
 <img src="ta2.jpg" alt="foto weergave lijst op een smartwatch" width="25%">
 <img src="ta3.jpg" alt="grootte display smartwatch" width="25%">
@@ -81,10 +82,10 @@ title: Technische Analyse
     <li>Gyroscoop</li>
     <li>Vingerafdruksensor</li>
     <li>Stof- en waterbestendig</li>
-    <li></li>  
 </ul>
  
 <h3>De ontwerprichtlijnen</h3>
+
 <ul>
     <li>2880 x 1440px</li>
     <li>Beeldschermdiagonaal 5.7 inch</li>
@@ -93,32 +94,35 @@ title: Technische Analyse
 <img src="ta5.jpg" alt="grootte schermen" width="25%">
 
 <h3>Het gebruik</h3>
+
 <ul>
     <li>Je kan je smartwatch connecteren met je smartphone en omgekeerd</li>
     <li>Je smartphone kan je lokaliseren en dit doorgeven aan je smartwatch</li>
 </ul>
 
 <h2>Beacons</h2>
-<p>
-“Wat GPS is voor buiten, zijn Beacons voor binnen. Het zijn kleine Bluetooth-kastjes op basis waarvan jouw telefoon zijn afstand tot het kastje kan bepalen. Met Beacons kan je ook binnen nauwkeurig bepalen waar je je bevindt. Vervolgens kan je acties hangen aan locaties.” – Bas van der Lans, Technisch Directeur Van Ons
-Dit kost tussen de 10 en 30 euro per stuk afhankelijk van het merk en specificaties.
-Onderstaande link is een voorbeeld uit een dierentuin. Mits dit buiten is, kan hetzelfde ook binnen en is dit vrij gelijkaardig aan wat wij willen doen in het museum.<br>
+
+<p>“Wat GPS is voor buiten, zijn Beacons voor binnen. Het zijn kleine Bluetooth-kastjes die op basis van jouw telefoon zijn afstand tot het kastje kan bepalen. Beacons kan ook binnenshuis nauwkeurig bepalen waar je je bevindt. Vervolgens kan je acties hangen aan locaties.” – Bas van der Lans, Technisch Directeur Van Ons</p>
+
+<p>Dit kost tussen de 10 en 30 euro per stuk afhankelijk van het merk en specificaties.
+Onderstaande link is een voorbeeld uit een dierentuin. Mits dit buiten is, kan hetzelfde ook binnen. Dit is vrij gelijkaardig aan wat wij willen doen in het museum.</p>
+
 <a href="https://www.van-ons.nl/nieuws/koelidee-11-ibeacon-technologie-in-de-dierentuin/">https://www.van-ons.nl/nieuws/koelidee-11-ibeacon-technologie-in-de-dierentuin/</a>
 
-Onderstaande afbeelding is een infographic van een Beacon-leverancier die een introductie geeft, van wat je ermee kan doen. Onderaan zie je ook wat het verschil is tussen Beacon en iBeacon
-</p>
+<p>Onderstaande afbeelding is een infographic van een Beacon-leverancier die een introductie geeft, van wat je ermee kan doen. Onderaan zie je ook wat het verschil is tussen Beacon en iBeacon</p>
 
 <h2>NFC of Near-field communication</h2>
-<p>
-Is een contactloze communicatiemethode die gebruikmaakt van de ISM-frequentieband en is vooral bedoeld voor gebruik in mobiele telefoons.Het heeft doorgaans een bereik van ongeveer 10 centimeter en kan in twee verschillende standen werken waarbij het verder bouwt op RFID-systemen door ook tweerichtingscommunicatie toe te laten: 
-<ul>
-<li>Tag-emulatie (ook wel passive mode): waar de NFC-chip zich gedraagt als een RFID-tag.</li>
-<li>Active mode: waar de NFC zich gedraagt als een reader en peer-to-peermode waarbij het mogelijk is om te communiceren tussen twee NFC-toestellen.</li>
-</ul>
-Smartphones die met NFC uitgerust zijn kunnen NFC-tags of stickers uitlezen om taken te automatiseren. Zo kunnen bijvoorbeeld instellingen aangepast worden, tekst kan verzonden worden, een app kan opgestart worden.
 
-1 NFC-tag kost tussen de €1,00 en €3,00
-</p>
+<p>Is een contactloze communicatiemethode die gebruikmaakt van de ISM-frequentieband en is vooral bedoeld voor gebruik in mobiele telefoons.Het heeft doorgaans een bereik van ongeveer 10 centimeter en kan in twee verschillende standen werken waarbij het verder bouwt op RFID-systemen door ook tweerichtingscommunicatie toe te laten:</p>
+
+<ul>
+<li>Tag-emulatie (ook wel passive mode): waar de NFC-chip zich gedraagt als een RFID-tag</li>
+<li>Active mode: waar de NFC zich gedraagt als een reader en peer-to-peermode waarbij het mogelijk is om te communiceren tussen twee NFC-toestellen</li>
+</ul>
+
+<p>Smartphones die met NFC uitgerust zijn kunnen NFC-tags of stickers uitlezen om taken te automatiseren. Zo kunnen bijvoorbeeld instellingen aangepast worden, tekst kan verzonden worden, een app kan opgestart worden.</p>
+
+<p>1 NFC-tag kost tussen de €1,00 en €3,00</p>
 
 <img src="nfc1.jpg" alt="Near-field communication producten" width="25%">
 <img src="nfc2.jpg" alt="Near-field communication werking" width="25%">
