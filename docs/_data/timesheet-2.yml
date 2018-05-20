@@ -110,3 +110,9 @@
 -
   time: 2.5
   task: Timesheets verplaatsen naar de html pagina
+-
+  time: 4
+  task: Dossier verder aanvullen
+  -
+  time: 3
+  task: Sitemap app tekenen en wireframes website
