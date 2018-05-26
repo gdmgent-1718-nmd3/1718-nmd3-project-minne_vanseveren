@@ -10,13 +10,13 @@
 // Color system
 //
 
-$cyan:    #17a2b8 !default;
-$primary: $cyan;
+$cyan:    white !default;
+$primary: #A1BE37;
 
 // Fonts
 //
 // Font, line-height, and color for body text, headings, and more.
 
-@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.google.com/specimen/Raleway');
 
-$font-family-base: Merriweather, serif;
+$font-family-base: Raleway, sans-serif;

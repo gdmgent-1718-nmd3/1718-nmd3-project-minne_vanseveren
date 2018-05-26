@@ -9,7 +9,7 @@ title: Technische Analyse
 
 Kies een bestaande smartwatch
 -----------------------------
-<a href="http://www.samsung.com/be/wearables/gear-s3/">Samsung Gear S3</a></h2>
+<a href="http://www.samsung.com/be/wearables/gear-s3/">Samsung Gear S3</a>
 
 ### Technische mogelijkheden
 
@@ -45,11 +45,13 @@ Kies een bestaande smartwatch
 * Beeldschermdiagonaal van 3,29 cm
 * Resolutie van 360px breed en 360px hoog
 
-![technische-analyse](http://127.0.0.1:4000/1718-nmd3-project-minne_vanseveren/docs/ta1.jpg){:style="width: 25%"} 
-<img src="ta1.jpg" alt="foto weergave op een smartwatch" width="25%">
-<img src="ta2.jpg" alt="foto weergave lijst op een smartwatch" width="25%">
-<img src="ta3.jpg" alt="grootte display smartwatch" width="25%">
-<img src="ta4.jpg" alt="foto onderdelen smartwatch" width="25%">
+![technische analyse 1](ta1.jpg){:style="width: 100%"}
+
+![technische analyse 2](ta2.jpg){:style="width: 100%"}
+
+![technische analyse 3](ta2.jpg){:style="width: 100%"}
+
+![technische analyse 4](ta2.jpg){:style="width: 100%"}
 
 ### Het gebruik
 
@@ -59,7 +61,7 @@ Kies een bestaande smartwatch
 Kies een bestaande smartphone:
 ------------------------------
 
-<a href="https://www.vandenborre.be/smartphone/lg-g6-titanium-sim">LG G6</a></h2>
+<a href="https://www.vandenborre.be/smartphone/lg-g6-titanium-sim">LG G6</a>
 
 ### Technische mogelijkheden
 

@@ -15,8 +15,9 @@ Een museum wil de bezoeker een nieuwe gebruikersbeleving geven. Hierbij worden w
 Teamleden
 ---------
 
- - Leïla Minne
- - Ira Van Severen
+ :mortar_board: Leïla Minne
+
+ :mortar_board: Ira Van Severen
 
 Gekozen Museum: Design museum Gent
 --------------

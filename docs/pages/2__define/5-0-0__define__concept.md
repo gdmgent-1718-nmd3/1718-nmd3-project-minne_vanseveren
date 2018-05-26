@@ -9,9 +9,11 @@ title: Concept
 
 Vandaag de dag hebben mensen heel weinig tijd. Daarom is het voor ons heel belangrijk dat onze app de bezoekers een meerwaarde kan bieden op vlak van tijd en efficiëntie. Uit ons onderzoek kunnen besluiten dat de meeste mensen voorstander zijn van een authentiek museumbezoek. Ze worden niet graag afgeleid door hun smartphone en willen meer kunnen genieten van hun bezoek. Daarom hebben we besloten een heel eenvoudige app te ontwerpen. Niet alleen qua lay-out maar ook in de werkmethode. Het is belangrijk dat ze niet te veel tijd verliezen aan:
 
-* Het registreren
-* Het uitzoeken naar de werking van de app
-* En ze mogen ook niet te veel afgeleid worden door de lay-out
+:bust_in_silhouette: Het registreren
+
+:iphone: Het uitzoeken naar de werking van de app
+
+:pencil2: En ze mogen ook niet te veel afgeleid worden door de lay-out
 
 De smartphone-app bied je de mogelijkheid om informatie te verkrijgen rond de uitgezette werkstukken in het museum. Zo voorkom je wachttijden aan de infobordjes en kan je het zeker lezen in jouw taal. Het verkrijgen van deze informatie kan op drie manieren:
 

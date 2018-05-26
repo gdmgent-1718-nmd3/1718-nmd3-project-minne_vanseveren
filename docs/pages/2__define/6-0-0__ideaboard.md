@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
+
+![ideaboard](ideaboard.png){:style="width: 25%"}
