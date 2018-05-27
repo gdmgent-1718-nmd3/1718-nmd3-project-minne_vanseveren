@@ -10,9 +10,13 @@ title: Opdracht NMD-III
 Wie zijn we?
 ------------
 
-![Foto Leïla](leïla.png){:style="width: 25%"}
+![Foto Leïla]
+(http://127.0.0.1:4000/1718-nmd3-project-minne_vanseveren/images/leïla.png)
+{:style="width: 25%"}
+
+![Foto Leïla](images/leïla.png){:style="width: 25%"}
 Leïla Minne, 2CMO-PD
 
-![Foto Ira](ira.png){:style="width: 25%"}
+![Foto Ira](_images/ira.png){:style="width: 25%"}
 Ira Van Severen, 2CMO-PD
 

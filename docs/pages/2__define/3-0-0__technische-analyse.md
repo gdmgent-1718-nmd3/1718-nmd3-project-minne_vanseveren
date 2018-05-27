@@ -45,9 +45,11 @@ Kies een bestaande smartwatch
 * Beeldschermdiagonaal van 3,29 cm
 * Resolutie van 360px breed en 360px hoog
 
-![technische analyse 1](ta1.jpg){:style="width: 100%"}
+![technische analyse 1]
+(http://127.0.0.1:4000/1718-nmd3-project-minne_vanseveren/images/ta1.jpg)
+{:style="width: 100%"}
 
-![technische analyse 2](ta2.jpg){:style="width: 100%"}
+![technische analyse 2](images/ta2.jpg){:style="width: 100%"}
 
 ![technische analyse 3](ta2.jpg){:style="width: 100%"}
 
