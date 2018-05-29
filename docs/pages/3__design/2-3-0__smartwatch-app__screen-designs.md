@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+
+![screendesign smartwatch]({{ '/images/screendesign_watch.png' | relative_url }}){:style="width: 100%"}

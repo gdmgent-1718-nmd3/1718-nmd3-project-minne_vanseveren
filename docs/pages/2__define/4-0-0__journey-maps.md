@@ -14,9 +14,6 @@ Beleving 1:
 Wanneer je de inkomhal binnenkomt zit je meteen in het thema van het designmuseum. Deze stijl vind je terug doorheen het museumbezoek.
 
 <span style="color: #788446; font-family: Raleway; font-size: 16pt;">
-Acties/taken
-    
-<span style="color: #788446; font-family: Raleway; font-size: 16pt;">
 Gedachten
 
 Je komt meteen in de sfeer van het museum.
@@ -31,10 +28,7 @@ Hierdoor begin je het bezoek met een positieve instelling.
 Opportuniteiten
 
 Reclame maken en de bezoekers laten weten dat er een app is waarvan ze gebruik kunnen maken.
-    
-<span style="color: #788446; font-family: Raleway; font-size: 16pt;">
-Pijnpunten
-    
+  
 ### Fase 2:
 Aan de balie.
     
@@ -57,10 +51,7 @@ Verward. Maar dit gevoel paste wel bij de eerste expositie.
 Opportuniteiten
 
 Hier zou de app kunnen worden aangeboden waardoor de bezoeker meer structuur krijgt.
-    
-<span style="color: #788446; font-family: Raleway; font-size: 16pt;">
-Pijnpunten
-    
+
 ### Fase 3:
 Binnenkomen in de eerste kamer.
 
@@ -81,12 +72,6 @@ Instellingen en emoties
 Derde wereldlanden, Afrika, India, Irak, etc
 Buitenlandse producten
 
-<span style="color: #788446; font-family: Raleway; font-size: 16pt;">
-Opportuniteiten
-
-<span style="color: #788446; font-family: Raleway; font-size: 16pt;">
-Pijnpunten
-    
 ### Fase 4:
 Binnenkomen in de eerste robotica kamer/ruimte/gang.
     
@@ -128,11 +113,10 @@ Gedachten
 
 Je weet niet goed waar te beginnen en je bent pas echt mee in het verhaal na het bezoeken van 2 ruimtes.
 
-<span style="color: #788446; font-family: Raleway; font-size: 16pt;">    
+<span style="color: #788446; font-family: Raleway; font-size: 16pt;">
 Instellingen en emoties
-
 Je kan je alles goed inbeelden en inleven.
-    
+
 <span style="color: #788446; font-family: Raleway; font-size: 16pt;">
 Opportuniteiten
 

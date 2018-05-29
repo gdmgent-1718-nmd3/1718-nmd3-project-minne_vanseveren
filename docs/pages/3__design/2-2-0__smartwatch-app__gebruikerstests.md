@@ -10,8 +10,8 @@ title: Gebruikerstests
 Paper Prototype
 ---------------
 
-    <img src="arm1.JPG" alt="Near-field communication werking" width="25%">
-    <img src="arm2.JPG" alt="Near-field communication werking" width="25%">
+| ------------ |:------------:|
+| ![gebruikerstesten 1]({{ '/images/arm1.JPG' | relative_url }}){:style="width: 100%"} || ![gebruikerstesten 2]({{ '/images/arm2.JPG' | relative_url }}){:style="width: 100%"} |
 
 Voor het testen van onze smartwatch app zochten we naar een aantal proefpersonen. 
 Onze persona’s zijn een vrouw van 21 jaar en een vrouw van 70 jaar. Naar een persoon
@@ -35,4 +35,4 @@ te klein. Dit kunnen we oplossen door de eerste kaart ongeveer dubbel zo
 groot te maken en wanneer men tikt op het scherm, zoomt het in zoals 
 omschreven in de derde tekening.
 
-    <img src="wireflow_sw.jpg" alt="Near-field communication werking" width="25%">
+![gebruikerstesten 3]({{ '/images/wireflow_sw.jpg' | relative_url }}){:style="width: 100%"}

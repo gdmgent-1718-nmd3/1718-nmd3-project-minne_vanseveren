@@ -7,4 +7,7 @@ published: true
 title: Ideaboard
 ---
 
-![ideaboard](ideaboard.png){:style="width: 25%"}
+![ideaboard]({{ '/images/ideaboard.png' | relative_url }}){:style="width: 100%"}
+
+| ------------ |:------------:|
+| ![ideaboard2]({{ '/images/ideaboard2.png' | relative_url }}){:style="width: 77%"} || ![ideaboard3]({{ '/images/ideaboard3.png' | relative_url }}){:style="width: 77%"} |

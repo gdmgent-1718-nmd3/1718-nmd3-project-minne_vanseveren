@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Smartwatch-app
 ---
+
+![smartwatch app]({{ '/images/smartwatchapp.png' | relative_url }}){:style="width: 100%"}

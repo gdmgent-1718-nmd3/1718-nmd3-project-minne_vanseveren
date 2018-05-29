@@ -9,9 +9,10 @@ title: Technische Analyse
 
 Kies een bestaande smartwatch
 -----------------------------
-<a href="http://www.samsung.com/be/wearables/gear-s3/">Samsung Gear S3</a>
+[Samsung Gear S3]({{ 'http://www.samsung.com/be/wearables/gear-s3/' | relative_url }})
 
-### Technische mogelijkheden
+<span style="color: #788446; font-family: Raleway; font-size: 1.75rem;">
+Technische mogelijkheden
 
 * Touchscreen
 * IP-certificering: IP68
@@ -40,22 +41,17 @@ Kies een bestaande smartwatch
 * Scherm: Super AMOLED, kleurenscherm
 * Roterende ring, toets terug (rechtsboven) en toets home (rechtsonder)
 
-### De ontwerprichtlijnen
+<span style="color: #788446; font-family: Raleway; font-size: 1.75rem;">
+De ontwerprichtlijnen
 
 * Beeldschermdiagonaal van 3,29 cm
 * Resolutie van 360px breed en 360px hoog
 
-![technische analyse 1]
-(http://127.0.0.1:4000/1718-nmd3-project-minne_vanseveren/images/ta1.jpg)
-{:style="width: 100%"}
+| ------------ |:------------:|
+| ![technische analyse 1]({{ '/images/ta1.jpg' | relative_url }}){:style="width: 40%"}<br> ![technische analyse 2]({{ '/images/ta2.jpg' | relative_url }}){:style="width: 40%"}<br> ![technische analyse 3]({{ '/images/ta3.jpg' | relative_url }}){:style="width: 40%"} || ![technische analyse 4]({{ '/images/ta4.jpg' | relative_url }}){:style="width: 40%"} |
 
-![technische analyse 2](images/ta2.jpg){:style="width: 100%"}
-
-![technische analyse 3](ta2.jpg){:style="width: 100%"}
-
-![technische analyse 4](ta2.jpg){:style="width: 100%"}
-
-### Het gebruik
+<span style="color: #788446; font-family: Raleway; font-size: 1.75rem;">
+Het gebruik
 
 * Smartwatch is geconnecteerd met je smartphone
 * Je smartphone kan je lokaliseren en dit doorgeven aan je smartwatch
@@ -63,9 +59,10 @@ Kies een bestaande smartwatch
 Kies een bestaande smartphone:
 ------------------------------
 
-<a href="https://www.vandenborre.be/smartphone/lg-g6-titanium-sim">LG G6</a>
+[LG G6]({{ 'https://www.vandenborre.be/smartphone/lg-g6-titanium-sim' | relative_url }})
 
-### Technische mogelijkheden
+<span style="color: #788446; font-family: Raleway; font-size: 1.75rem;">
+Technische mogelijkheden
 
 * RAM-geheugen 4GB
 * Intern geheugen 32GB
@@ -81,14 +78,16 @@ Kies een bestaande smartphone:
 * Vingerafdruksensor
 * Stof- en waterbestendig
  
-### De ontwerprichtlijnen
+<span style="color: #788446; font-family: Raleway; font-size: 1.75rem;">
+De ontwerprichtlijnen
 
 * 2880 x 1440px
 * Beeldschermdiagonaal 5.7 inch
 
-<img src="ta5.jpg" alt="grootte schermen" width="25%">
+![technische analyse 5]({{ '/images/ta5.jpg' | relative_url }}){:style="width: 50%"}
 
-### Het gebruik
+<span style="color: #788446; font-family: Raleway; font-size: 1.75rem;">
+Het gebruik
 
 * Je kan je smartwatch connecteren met je smartphone en omgekeerd
 * Je smartphone kan je lokaliseren en dit doorgeven aan je smartwatch
@@ -101,9 +100,11 @@ Beacons
 Dit kost tussen de 10 en 30 euro per stuk afhankelijk van het merk en specificaties.
 Onderstaande link is een voorbeeld uit een dierentuin. Mits dit buiten is, kan hetzelfde ook binnen. Dit is vrij gelijkaardig aan wat wij willen doen in het museum.
 
-<a href="https://www.van-ons.nl/nieuws/koelidee-11-ibeacon-technologie-in-de-dierentuin/">https://www.van-ons.nl/nieuws/koelidee-11-ibeacon-technologie-in-de-dierentuin/</a>
+[https://www.van-ons.nl/nieuws/koelidee-11-ibeacon-technologie-in-de-dierentuin/]({{ 'https://www.van-ons.nl/nieuws/koelidee-11-ibeacon-technologie-in-de-dierentuin/' | relative_url }})
 
 Onderstaande afbeelding is een infographic van een Beacon-leverancier die een introductie geeft, van wat je ermee kan doen. Onderaan zie je ook wat het verschil is tussen Beacon en iBeacon
+
+![technische analyse 8]({{ '/images/beacons.jpg' | relative_url }}){:style="width: 50%"}
 
 NFC of Near-field communication
 -------------------------------
@@ -117,7 +118,8 @@ Smartphones die met NFC uitgerust zijn kunnen NFC-tags of stickers uitlezen om t
 
 1 NFC-tag kost tussen de €1,00 en €3,00
 
-<img src="nfc1.jpg" alt="Near-field communication producten" width="25%">
-<img src="nfc2.jpg" alt="Near-field communication werking" width="25%">
+![technische analyse 6]({{ '/images/nfc1.jpg' | relative_url }}){:style="width: 50%"}
+
+![technische analyse 7]({{ '/images/nfc2.jpg' | relative_url }}){:style="width: 50%"}
 
 

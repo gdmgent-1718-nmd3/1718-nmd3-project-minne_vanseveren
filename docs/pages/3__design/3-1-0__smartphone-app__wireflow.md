@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
+
+![wireflow smartphone]({{ '/images/wireflow_smartphone2.png' | relative_url }}){:style="width: 100%"}
