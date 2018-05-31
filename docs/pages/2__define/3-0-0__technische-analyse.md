@@ -10,9 +10,10 @@ title: Technische Analyse
 Kies een bestaande smartwatch
 -----------------------------
 [Samsung Gear S3]({{ 'http://www.samsung.com/be/wearables/gear-s3/' | relative_url }})
+{: .linken}
 
-<span style="color: #788446; font-family: Raleway; font-size: 1.75rem;">
 Technische mogelijkheden
+{: .tussentitel}
 
 * Touchscreen
 * IP-certificering: IP68
@@ -41,28 +42,30 @@ Technische mogelijkheden
 * Scherm: Super AMOLED, kleurenscherm
 * Roterende ring, toets terug (rechtsboven) en toets home (rechtsonder)
 
-<span style="color: #788446; font-family: Raleway; font-size: 1.75rem;">
 De ontwerprichtlijnen
+{: .tussentitel}
 
 * Beeldschermdiagonaal van 3,29 cm
 * Resolutie van 360px breed en 360px hoog
 
 | ------------ |:------------:|
-| ![technische analyse 1]({{ '/images/ta1.jpg' | relative_url }}){:style="width: 40%"}<br> ![technische analyse 2]({{ '/images/ta2.jpg' | relative_url }}){:style="width: 40%"}<br> ![technische analyse 3]({{ '/images/ta3.jpg' | relative_url }}){:style="width: 40%"} || ![technische analyse 4]({{ '/images/ta4.jpg' | relative_url }}){:style="width: 40%"} |
+| ![technische analyse 1]({{ '/images/ta_drie.png' | relative_url }}){:style="width: 100%"} || ![technische analyse 4]({{ '/images/ta4.jpg' | relative_url }}){:style="width: 90%"} |
 
-<span style="color: #788446; font-family: Raleway; font-size: 1.75rem;">
 Het gebruik
+{: .tussentitel}
 
 * Smartwatch is geconnecteerd met je smartphone
 * Je smartphone kan je lokaliseren en dit doorgeven aan je smartwatch
 
 Kies een bestaande smartphone:
 ------------------------------
+{: .witruimte}
 
 [LG G6]({{ 'https://www.vandenborre.be/smartphone/lg-g6-titanium-sim' | relative_url }})
+{: .linken}
 
-<span style="color: #788446; font-family: Raleway; font-size: 1.75rem;">
 Technische mogelijkheden
+{: .tussentitel}
 
 * RAM-geheugen 4GB
 * Intern geheugen 32GB
@@ -78,24 +81,25 @@ Technische mogelijkheden
 * Vingerafdruksensor
 * Stof- en waterbestendig
  
-<span style="color: #788446; font-family: Raleway; font-size: 1.75rem;">
 De ontwerprichtlijnen
+{: .tussentitel}
 
 * 2880 x 1440px
 * Beeldschermdiagonaal 5.7 inch
 
 ![technische analyse 5]({{ '/images/ta5.jpg' | relative_url }}){:style="width: 50%"}
 
-<span style="color: #788446; font-family: Raleway; font-size: 1.75rem;">
 Het gebruik
+{: .tussentitel}
 
-* Je kan je smartwatch connecteren met je smartphone en omgekeerd
+* Je kan je smartphone connecteren met je smartwatch en omgekeerd
 * Je smartphone kan je lokaliseren en dit doorgeven aan je smartwatch
 
 Beacons
 -------
+{: .witruimte}
 
-“Wat GPS is voor buiten, zijn Beacons voor binnen. Het zijn kleine Bluetooth-kastjes die op basis van jouw telefoon zijn afstand tot het kastje kan bepalen. Beacons kan ook binnenshuis nauwkeurig bepalen waar je je bevindt. Vervolgens kan je acties hangen aan locaties.” – Bas van der Lans, Technisch Directeur Van Ons
+“Terwijl de GPS voor buiten is, zijn Beacons voor binnen. Het zijn kleine Bluetooth-kastjes die op basis van jouw telefoon zijn afstand tot het kastje kan bepalen. Beacons kan ook binnenshuis nauwkeurig bepalen waar je je bevindt. Vervolgens kan je acties hangen aan locaties.” – Bas van der Lans, Technisch Directeur Van Ons
 
 Dit kost tussen de 10 en 30 euro per stuk afhankelijk van het merk en specificaties.
 Onderstaande link is een voorbeeld uit een dierentuin. Mits dit buiten is, kan hetzelfde ook binnen. Dit is vrij gelijkaardig aan wat wij willen doen in het museum.
@@ -108,13 +112,14 @@ Onderstaande afbeelding is een infographic van een Beacon-leverancier die een in
 
 NFC of Near-field communication
 -------------------------------
+{: .witruimte}
 
-Is een contactloze communicatiemethode die gebruikmaakt van de ISM-frequentieband en is vooral bedoeld voor gebruik in mobiele telefoons.Het heeft doorgaans een bereik van ongeveer 10 centimeter en kan in twee verschillende standen werken waarbij het verder bouwt op RFID-systemen door ook tweerichtingscommunicatie toe te laten:
+Is een contactloze communicatiemethode die gebruikmaakt van de ISM-frequentieband en is vooral bedoeld voor gebruik in mobiele telefoons. Het heeft doorgaans een bereik van ongeveer 10 centimeter en kan in twee verschillende standen werken waarbij het verder bouwt op RFID-systemen door ook tweerichtingscommunicatie toe te laten:
 
 * Tag-emulatie (ook wel passive mode): waar de NFC-chip zich gedraagt als een RFID-tag
-* Active mode: waar de NFC zich gedraagt als een reader en peer-to-peermode waarbij het mogelijk is om te communiceren tussen twee NFC-toestellen
+* Active mode: waar de NFC zich gedraagt als een reader en peer-to-peer mode waarbij het mogelijk is om te communiceren tussen twee NFC-toestellen
 
-Smartphones die met NFC uitgerust zijn kunnen NFC-tags of stickers uitlezen om taken te automatiseren. Zo kunnen bijvoorbeeld instellingen aangepast worden, tekst kan verzonden worden, een app kan opgestart worden.
+Smartphones die met NFC uitgerust zijn kunnen NFC-tags of stickers uitlezen om taken te automatiseren. Zo kunnen bijvoorbeeld instellingen worden aangepast, tekst verzonden worden of een app worden opgestart.
 
 1 NFC-tag kost tussen de €1,00 en €3,00
 

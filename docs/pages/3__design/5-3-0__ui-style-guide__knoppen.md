@@ -1,8 +1,8 @@
 ---
 layout   : default
-permalink: design/ui-style-guide/typografie/
+permalink: design/ui-style-guide/knoppen/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Typografie
+title: Knoppen
 ---

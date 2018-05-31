@@ -134,4 +134,48 @@
 -
   time: 0.25
   task: Feedforward beginnen toepassen
+-
+  time: 2.75
+  task: Visual design aanpassen
+-
+  time: 0.75
+  task: Sitemap bekijken voor website + inhoud en mogelijk uitzicht wireframes
+-
+  time: 3
+  task: Wireframes website
+-
+  time: 1.25
+  task: Wireframes website
+-
+  time: 2.75
+  task: Visual design website
+-
+  time: 1.75
+  task: Wireflow Smartphone & smartwatch aanpassen aan laatste designs
+-
+  time: 0.5
+  task: Sitemap lichtjes aanpassen + digitaliseren
+-
+  time: 0.5
+  task: Wireflow aanvullen
+-
+  time: 0.75
+  task: Benamingen en details aanpassen
+-
+  time: 1
+  task: Visual designs aanpassen
+-
+  time: 1.5
+  task: Visual designs voor mobile aanpassen
+-
+  time: 3
+  task: Stand van zaken, dossier + alles samen overlopen + feedforward
+-
+  time: 1
+  task: Werken aan visual designs website
+-
+  time: 0.25
+  task: Wireflow aanvullen
+
+
 

@@ -107,6 +107,9 @@
   task: Feedforward
 -
   time: 0.25
+  task: Feedforward beginnen toepassen
+-
+  time: 0.25
   task: Dossier in de juiste html pagina plaatsen
 -
   time: 2.5
@@ -117,3 +120,24 @@
 -
   time: 3
   task: Sitemap app tekenen en wireframes website
+-
+  time: 2.5
+  task: Dossier verder aanvullen
+-
+  time: 3
+  task: Stand van zaken, dossier + alles samen overlopen + feedforward
+-
+  time: 4
+  task: Dossier verder aanvullen
+-
+  time: 0.75
+  task: Sitemap bekijken voor website + inhoud en mogelijk uitzicht wireframes
+-
+  time: 3
+  task: Werken aan visual designs website
+-
+  time: 2.5
+  task: Dossier en visual designs website bespreken en aanpassen
+-
+  time: 3.5
+  task: Compromie visual design website bedenken en uitwerken
