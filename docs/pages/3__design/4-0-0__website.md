@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Website
 ---
+
+![website]({{ '/images/startpagina_website.png' | relative_url }}){:style="width: 100%"}

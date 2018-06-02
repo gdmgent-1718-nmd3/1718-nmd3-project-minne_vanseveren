@@ -52,7 +52,7 @@ De ontwerprichtlijnen
 | ![technische analyse 1]({{ '/images/ta_drie.png' | relative_url }}){:style="width: 100%"} || ![technische analyse 4]({{ '/images/ta4.jpg' | relative_url }}){:style="width: 90%"} |
 
 Het gebruik
-{: .tussentitel}
+{: .tussentitel .wit}
 
 * Smartwatch is geconnecteerd met je smartphone
 * Je smartphone kan je lokaliseren en dit doorgeven aan je smartwatch

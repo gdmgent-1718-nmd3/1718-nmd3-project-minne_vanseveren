@@ -9,6 +9,7 @@ title: Gebruikerstests
 
 Paper Prototype
 ---------------
+{: .witna}
 
 | ------------ |:------------:|
 | ![gebruikerstesten 1]({{ '/images/arm1.JPG' | relative_url }}){:style="width: 100%"} || ![gebruikerstesten 2]({{ '/images/arm2.JPG' | relative_url }}){:style="width: 100%"} |

@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Sitemap
 ---
+
+![sitemap]({{ '/images/sitemap.png' | relative_url }}){:style="width: 100%"}

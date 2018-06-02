@@ -62,4 +62,4 @@ Het menu zou kunnen bestaan uit drie knoppen: route plannen, geplande route en n
 <span style="color: #788446; font-family: Raleway; font-size: 20pt;">
 Conclusie gebruikerstesten
 
-We hebben samen beide gebruikertesten eens goed geanalyseerd en vergeleken. Hierop hebben we ons dan gepaseerd om een nieuw ontwerp te maken. Sommige opmerkingen uit de testen hebben we aangepakt, maar anders verwerkt. Alle problemen en mogleijke vragen waarmee de gebruiker zat worden hierin weggewerkt, maar we blijven wel in ons achterhoofd rekeninng houden met het oorspronkelijke doel van onze app. 
+We hebben samen beide gebruikertesten eens goed geanalyseerd en vergeleken. Hierop hebben we ons dan gebaseerd om een nieuw ontwerp te maken. Sommige opmerkingen uit de testen hebben we aangepakt, maar anders uitgewerkt. Alle problemen en mogelijke vragen van de gebruiker worden hierin weggewerkt, maar we blijven wel in ons achterhoofd rekeninng houden met het oorspronkelijke doel van onze app.
