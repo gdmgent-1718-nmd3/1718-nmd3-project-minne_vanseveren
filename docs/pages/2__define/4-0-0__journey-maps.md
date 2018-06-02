@@ -12,7 +12,7 @@ Beleving 1:
 
 ### Fase 1:
 {: .witruimte}
-Wanneer je de inkomhal binnenkomt zit je meteen in het thema van het designmuseum. Deze stijl vind je terug doorheen het museumbezoek.
+Wanneer je de inkomhal binnenkomt, zit je meteen in het thema van het designmuseum. Deze stijl vind je terug doorheen het museumbezoek.
 
 Gedachten
 {: .stappen}
@@ -22,13 +22,12 @@ Je komt meteen in de sfeer van het museum.
 Instelling en emoties
 {: .stappen}
 
-Door de tv-schermen in de inkomhal kom je meteen in de sfeer van de technologie.<br>
-Hierdoor begin je het bezoek met een positieve instelling.
+Door de tv-schermen in de inkomhal kom je meteen in de sfeer van de technologie, hierdoor begin je het bezoek met een positieve instelling.
     
 Opportuniteiten
 {: .stappen}
 
-Reclame maken en de bezoekers laten weten dat er een app is waarvan ze gebruik kunnen maken.
+Reclame maken en de bezoekers laten weten dat er een app is waar ze gebruik kunnen van maken.
   
 ### Fase 2:
 {: .witruimte}
@@ -42,12 +41,12 @@ Tickets bestellen
 Gedachten
 {: .stappen}
 
-Je weet niet goed waar je moet beginnen. Je krijgt geen plan. Je weet niet of je de foldertjes die er liggen mag meenemen of niet.
+Je weet niet goed waar je moet beginnen. Je krijgt geen plattegrond van het museum. Je weet niet of je de foldertjes die er liggen mag meenemen, ...
     
 Instellingen en emoties
 {: .stappen}
 
-Verward. Maar dit gevoel paste wel bij de eerste expositie.
+Verward, maar dit gevoel paste wel bij de eerste expositie.
     
 Opportuniteiten
 {: .stappen}
@@ -72,12 +71,12 @@ De ruimte voelt kil en authentiek aan. Je leeft je meteen in.
 Instellingen en emoties
 {: .stappen}
 
-Derde wereldlanden, Afrika, India, Irak, etc
+Derde wereldlanden, Afrika, India, Irak, etc <br>
 Buitenlandse producten
 
 ### Fase 4:
 {: .witruimte}
-Binnenkomen in de eerste robotica kamer/ruimte/gang.
+Binnenkomen in de eerste robotica ruimte/gang.
     
 Acties/taken
 {: .stappen}
@@ -87,7 +86,7 @@ Je werd ingeleid met leuke quotes over de toekomst met robots.
 Gedachten
 {: .stappen}
 
-Dan kom je via een smalle gang in het nieuwe gebouw terecht. Die wit, open, lumineus en vernieuwend aanvoelt. Er wordt gebruik gemaakt van felle kleuren aan de muur. Je legt meteen de link naar technologie en robotica.
+Je komt via een smalle gang in het nieuwe gebouw terecht. Deze is wit, open en voelt lumineus en vernieuwend. Er wordt gebruik gemaakt van felle kleuren aan de muur. Je legt meteen de link naar technologie en robotica.
 
 Instellingen en emoties
 {: .stappen}
@@ -97,7 +96,7 @@ Een vernieuwde kijk op de technologische vooruitgang.
 Opportuniteiten
 {: .stappen}
 
-De gids verzekerde ons dat je aan het einde van je bezoek een andere kijk of gedachte zou hebben bij de quotes die je  zag hangen. De quotes die de bezoeker het meeste aanspraken zouden ze kunnen bewaren in onze app om ze na hun bezoek nog eens te bekijken.
+De gids verzekerde ons dat je aan het einde van je bezoek een andere kijk of gedachte zou hebben bij de quotes die je zag hangen. De quotes die de bezoeker het meeste aanspraken zouden ze kunnen bewaren in onze app om ze na hun bezoek nog eens te bekijken.
 
 Pijnpunten
 {: .stappen}
@@ -106,7 +105,7 @@ De bezoeker is misschien niet in staat om de diepgang van sommige quotes te begr
     
 ### Fase 5:
 {: .witruimte}
-De vier robotica ruimtes: algemeen gekende robotica (huishoudelijk, speelgoed en elektronica), industrieel, speelgoed en ontspanning en medisch.
+De vier robotica ruimtes: wetenschap & fictie, geprogrammeerd om te werken, vrienden & helpers en één worden.
 
 Acties/taken
 {: .stappen}
@@ -152,7 +151,7 @@ Hebben we alles gezien of missen we nog iets?
 Instellingen en emoties
 {: .stappen}
 
-Verbaasd van hetgeen dat we gezien hebben. Je gevoel wordt niet versterkt.
+Verbaasd over wat we gezien hebben. Je gevoel wordt niet versterkt.
 
 Opportuniteiten
 {: .stappen}
@@ -170,7 +169,7 @@ Beleving 2:
 
 ### Fase 1:
 {: .witruimte}
-Wanneer je de inkomhal binnenkomt zie je het thema van de Robotica overal. Het gestreepte design is overal te zien.
+Wanneer je de inkomhal binnenkomt zie je overal het thema van de Robotica. Het gestreepte design is overal te zien.
 
 Acties/taken
 {: .stappen}
@@ -180,7 +179,7 @@ Aan de pijltjes die branden naar rechts kun je meteen uitmaken dat je die weg mo
 Gedachten
 {: .stappen}
 
-Die strepen gaan toch niet in elke kamer te zien zijn, toch?
+Die strepen gaan toch niet in elke kamer te zien zijn?
 
 Instelling en emoties
 {: .stappen}
@@ -257,7 +256,7 @@ De verwachtingen van het museum worden nog onduidelijker.
     
 ### Fase 4:
 {: .witruimte}
-Binnenkomen in de eerste robotica kamer/ruimte/gang.
+Binnenkomen in de eerste robotica ruimte/gang.
 
 Acties/taken
 {: .stappen}
@@ -286,7 +285,7 @@ Mensen nemen al graag eens een camera mee naar een museum. Soms liever dan hun s
     
 ### Fase 5:
 {: .witruimte}
-De vier robotica ruimtes: algemeen gekende robotica (huishoudelijk, speelgoed en elektronica), industrieel, speelgoed en ontspanning en medisch
+De vier robotica ruimtes: wetenschap & fictie, geprogrammeerd om te werken, vrienden & helpers en één worden.
 
 Acties/taken
 {: .stappen}
@@ -306,7 +305,7 @@ Foto’s vastleggen voor later.
 Opportuniteiten
 {: .stappen}
 
-Hier komt de ‘belevingslijst’ van pas. Hierin kun je teksten, namen, etc vastleggen voor later.
+Hier komt de ‘belevingslijst’ van pas. Hierin kan je teksten, namen, etc vastleggen voor later.
 
 Pijnpunten
 {: .stappen}
@@ -320,7 +319,7 @@ Einde van het museumbezoek waarbij je nog enkele andere ruimtes passeert over an
 Acties/taken
 {: .stappen}
 
-Niet echt duidelijk of je nu moet terugkeren of hierdoor moet voor een volgend stuk. Wat komt er nu nog?
+Niet echt duidelijk of je nu moet terugkeren of hierdoor moet voor een volgend stuk. Wat komt er nog?
 
 Gedachten
 {: .stappen}
