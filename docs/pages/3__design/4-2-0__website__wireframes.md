@@ -20,4 +20,4 @@ Desktop
 
 [XD-bestanden](https://xd.adobe.com/view/4a49c8b3-6b67-4472-798b-9592e1a7d7fb-3c78/){:target="_blank"}{:.btn.btn-primary}
 
-![wireframes website]({{ '/images/wireframes_web2.png' | relative_url }}){:style="width: 100%"}
+![wireframes website]({{ '/images/wireframes_webd.png' | relative_url }}){:style="width: 100%"}
