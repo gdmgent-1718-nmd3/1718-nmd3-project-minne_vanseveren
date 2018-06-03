@@ -11,7 +11,6 @@ Beleving 1:
 -----------
 
 ### Fase 1:
-{: .witruimte}
 Wanneer je de inkomhal binnenkomt, zit je meteen in het thema van het designmuseum. Deze stijl vind je terug doorheen het museumbezoek.
 
 Gedachten
@@ -168,7 +167,6 @@ Beleving 2:
 {: .witruimte}
 
 ### Fase 1:
-{: .witruimte}
 Wanneer je de inkomhal binnenkomt zie je overal het thema van de Robotica. Het gestreepte design is overal te zien.
 
 Acties/taken

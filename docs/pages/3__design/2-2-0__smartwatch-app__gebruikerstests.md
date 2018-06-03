@@ -13,6 +13,7 @@ Paper Prototype
 
 | ------------ |:------------:|
 | ![gebruikerstesten 1]({{ '/images/arm1.JPG' | relative_url }}){:style="width: 100%"} || ![gebruikerstesten 2]({{ '/images/arm2.JPG' | relative_url }}){:style="width: 100%"} |
+{: .witna}
 
 Voor het testen van onze smartwatch app zochten we naar een aantal proefpersonen. Onze persona’s zijn een vrouw van 21 jaar en een vrouw van 70 jaar. Naar een persoon van 21 jaar was het voor ons niet ver zoeken. Twee vrienden van ons zagen het wel zitten om proefkonijn te spelen. Onze ouders wouden gerust proefpersoon zijn voor de oudere generatie.
 
