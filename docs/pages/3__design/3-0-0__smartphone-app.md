@@ -7,4 +7,4 @@ published: true
 title: Smartphone-app
 ---
 
-![smartphone app]({{ '/images/smartphoneapp.png' | relative_url }}){:style="width: 100%"}
+![smartphone-app]({{ '/images/smartphoneapp.png' | relative_url }}){:style="width: 100%"}

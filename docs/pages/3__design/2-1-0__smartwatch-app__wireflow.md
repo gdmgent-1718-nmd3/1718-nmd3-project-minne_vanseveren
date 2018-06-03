@@ -7,7 +7,7 @@ published: true
 title: Wireflow
 ---
 
-[XD bestanden](https://xd.adobe.com/view/54bb3334-b7d6-488c-7b4d-4ed43cce8a96-228a/){:target="_blank"}{:.btn.btn-primary}
+[XD-bestanden](https://xd.adobe.com/view/54bb3334-b7d6-488c-7b4d-4ed43cce8a96-228a/){:target="_blank"}{:.btn.btn-primary}
 
 Eerste versie
 --------------

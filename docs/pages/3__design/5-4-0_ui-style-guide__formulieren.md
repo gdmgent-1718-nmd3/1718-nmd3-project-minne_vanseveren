@@ -43,8 +43,5 @@ Inloggen
     <div class="form-group">
         <label for="InputPassword">Wachtwoord</label>
         <input type="password" class="form-control" id="exampleInputPassword1" aria-describedby="emailHelp" placeholder="Wachtwoord">
-        <small id="emailHelp" class="form-text text-muted">
-            <a href="#">Uw wachtwoord vergeten?</a>
-        </small>
     </div>
  </form>
