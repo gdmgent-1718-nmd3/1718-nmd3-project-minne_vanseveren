@@ -6,19 +6,37 @@ published: true
 # ─────────────────────
 title: Typografie
 ---
+Applicaties
+------------
+{: .witruimte .witna}
 
-This is a h1
+<strong>Robot Lucy<br>
+Raleway Bold</strong>
 
-PT Mono
+<strong><i>Luciaan Tobias<br>
+Raleway Bold Italic</i></strong>
 
-This is a h2
+Info over het werk.
+Lorem ipsum dolor sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore magna 
+aliquam erat volutpat. Ut wisi enim ad minim 
+veniam, quis nostrud exerci tation ullamcorper 
+suscipit lobortis nisl ut aliquip.<br>
+Raleway Regular
 
-PT Mono
+Website
+--------
+{: .witruimte .witna}
 
-This is a h3
+<strong>SMARTPHONE-APP<br>
+Raleway SemiBold</strong>
+{: .kleur}
 
-PT Mono
+<strong>Algemeen</strong> 
+de smartphone-app kan ook verbonden worden aan je smartwatch voor een nog betere ervaring. De app kan ook verbonden worden aan je smartwatch voor een nog betere ervaring.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.
+<strong>Werking:</strong> de smartphone-app kan ook verbonden worden aan je voor een nog betere ervaring zoals nooit tevoren.
 
-
+De smartphone-app kan ook verbonden worden aan je smartwatch voor een betere ervaring.<br>
+Raleway Regular

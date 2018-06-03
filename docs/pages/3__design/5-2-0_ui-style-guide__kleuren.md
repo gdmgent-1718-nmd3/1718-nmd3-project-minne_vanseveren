@@ -7,11 +7,17 @@ published: true
 title: Kleuren
 ---
 
-
-<div style="text-align:center">
-  <span class="dot db">#1E56A0</span>
-  <span class="dot test">#163172</span>
-  <span class="dot gr">#F6F6F6</span>
-  <span class="dot lb">#D6E4F0</span>
-  <span class="dot zw">#000000</span>
-</div>
+<div class="alert alert-primary1" role="alert">
+#a2c037</div>
+<div class="alert alert-primary2" role="alert">
+#c65a1e</div>
+<div class="alert alert-primary3" role="alert">
+#f0b1b1</div>
+<div class="alert alert-primary4" role="alert">
+#9dcde3</div>
+<div class="alert alert-primary5" role="alert">
+#3f3e3e</div>
+<div class="alert alert-primary6" role="alert">
+#ececec</div>
+<div class="alert alert-primary7" role="alert">
+#ffffff</div>

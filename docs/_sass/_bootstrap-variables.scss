@@ -20,3 +20,159 @@ $primary: #A1BE37;
 @import url('https://fonts.google.com/specimen/Raleway');
 
 $font-family-base: Raleway, sans-serif;
+
+.alert-primary1{
+    color : white !important;
+    background-color: #a2c037;
+    border-color: #a2c037;
+    }
+
+.alert-primary2{
+    color : white !important;
+    background-color: #c65a1e;
+    border-color: #c65a1e;
+    }
+
+.alert-primary3{
+    color : white !important;
+    background-color: #F0B1B1;
+    border-color: #F0B1B1;
+    }
+
+.alert-primary4{
+    color : white !important;
+    background-color: #9DCDE3;
+    border-color: #9DCDE3;
+    }
+
+.alert-primary5{
+    color : white !important;
+    background-color: #3f3e3e;
+    border-color: #3f3e3e;
+    }
+
+.alert-primary6{
+    color : #3f3e3e !important;
+    background-color: #ececec;
+    border-color: #ececec;
+    }
+
+.alert-primary7{
+    color : #3f3e3e !important;
+    background-color: #ffffff;
+    border-color: #3f3e3e;
+    }
+
+.twee{
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent;
+    font-size: 1rem;
+    line-height: 1.5;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    padding: 5px 5px 5px 5px;
+    font-family: 'Impact', regular;
+    border-radius: 0.65rem !important;
+    }
+
+.btn-dark{
+    background-color: black !important;
+    border-color: black !important;
+}
+
+.btn-outline-info{
+    color : #a2c037 !important;
+    background-color: white !important;
+    border-color: #a2c037 !important;
+}
+.btn-outline-info:hover{
+    color : #a2c037 !important;
+    background-color: white !important;
+    border-color: #a2c037 !important;
+}
+
+.oranje{
+    color : #c65a1e !important;
+    background-color: white !important;
+    border-color: #c65a1e !important;
+}
+.oranje:hover{
+    color : #c65a1e !important;
+    background-color: white !important;
+    border-color: #c65a1e !important;
+}
+
+.blauw{
+    color : #9DCDE3 !important;
+    background-color: white !important;
+    border-color: #9DCDE3 !important;
+}
+.blauw:hover{
+    color : #9DCDE3 !important;
+    background-color: white !important;
+    border-color: #9DCDE3 !important;
+}
+
+.roze{
+    color : #F0B1B1 !important;
+    background-color: white !important;
+    border-color: #F0B1B1 !important;
+}
+.roze:hover{
+    color : #F0B1B1 !important;
+    background-color: white !important;
+    border-color: #F0B1B1 !important;
+}
+
+.btn-danger {
+    color: white !important;
+    background-color: #788446 !important;
+    border-color: #788446 !important;
+    }
+.linkse{
+    border-bottom-left-radius: 0rem !important;
+    border-bottom-right-radius: 0rem !important;
+    border-top-left-radius: 0rem !important;
+}
+.rechtse{
+    border-bottom-right-radius: 0rem !important;
+    border-bottom-left-radius: 0rem !important;
+    border-top-right-radius: 0rem !important;
+}
+
+.O {
+    background-color: #BF811F !important;
+    border-color: #BF811F!important;
+    }
+.B {
+    background-color: #6F92A2 !important;
+    border-color: #6F92A2!important;
+    }
+.R {
+    background-color: #BE8989 !important;
+    border-color: #BE8989!important;
+    }
+    
+.btn-secondary {
+    border-bottom-left-radius: 0rem !important;
+    border-bottom-right-radius: 0rem !important;
+    color: white !important;
+    background-color: #3f3e3e !important;
+    border-color: #3f3e3e !important;
+    }
+
+.btn-outline-success {
+    color: #9DCDE3 !important;
+    background-color: white !important;
+    border-color: #9DCDE3 !important;
+    }
+
+.btn-outline-success:hover {
+    color: white !important;
+    background-color: #9DCDE3 !important;
+    border-color: #9DCDE3 !important;
+    }
