@@ -14,11 +14,11 @@ Registratie
 
 <form>
     <div class="form-group">
-        <label for="InputName">Naam</label>
+        <label for="InputName">Naam Voornaam</label>
         <input type="name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Leïla Minne">
     </div>
     <div class="form-group">
-        <label for="InputEmail">E-mailadres</label>
+        <label for="InputEmail">E-mail</label>
         <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="leilaminne@gmail.com">
     </div>
     <div class="form-group">
@@ -37,7 +37,7 @@ Inloggen
 
 <form>
     <div class="form-group">
-        <label for="InputEmail">E-mailadres</label>
+        <label for="InputEmail">E-mail</label>
         <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="leilaminne@gmail.com">
     </div>
     <div class="form-group">
